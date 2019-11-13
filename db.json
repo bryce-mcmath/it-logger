@@ -1,0 +1,49 @@
+{
+  "logs": [
+    {
+      "message": "Changed network card in server 003",
+      "attention": false,
+      "tech": "John Doe",
+      "date": "2019-11-13T02:40:07.358Z",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "message": "Fixed hard drive in workstation 011",
+      "attention": false,
+      "tech": "John Doe",
+      "date": "2019-11-13T06:54:08.860Z"
+    },
+    {
+      "message": "01121 wireless is down",
+      "attention": true,
+      "tech": "Sam Smith",
+      "date": "2019-11-13T02:41:20.623Z",
+      "id": 3
+    },
+    {
+      "message": "New graphics card in IT office workstation",
+      "attention": false,
+      "tech": "Jen Williams",
+      "date": "2019-11-13T07:45:58.241Z",
+      "id": 4
+    }
+  ],
+  "techs": [
+    {
+      "id": 2,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "id": 3,
+      "firstName": "Sara",
+      "lastName": "Wilson"
+    },
+    {
+      "firstName": "Jen",
+      "lastName": "Williams",
+      "id": 4
+    }
+  ]
+}
